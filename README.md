@@ -7,7 +7,9 @@
 
 <table>
   <tr>
-    <td><img src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" width="200px" height="200px" alt="Moon" align="center"></td>
+    <div align="center">
+      <img src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" width="200px" height="200px" alt="Moon">
+    </div>
   </tr>
 </table>
 
