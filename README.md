@@ -9,9 +9,9 @@
 
 <table>
   <tr>
-    <td><img src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif"></td>
-    
+    <td><img src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" width="64px" height="64px" alt="Moon"></td>
   </tr>
+  
 </table>
 <h3 align="center">Connect with me:</h3>
 <div align="center">
@@ -46,8 +46,4 @@
 <p align= "center">
   <img height= "150" src="https://github-readme-stats.vercel.app/api?username=beyzaerf&theme=react&show_icons=true&include_all_commits=true" />
   <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beyzaerf&theme=react&layout=compact" />
-</p>
-
-<p align= "center">
-  <a href="https://emoji.gg/emoji/5349-hellokittybyebye"><img src="https://cdn3.emoji.gg/emojis/5349-hellokittybyebye.png" width="128px" height="128px" alt="HelloKittyByeBye"></a>
 </p>
