@@ -9,14 +9,14 @@
 
 <table>
   <tr>
-    <td><img src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" width="64px" height="64px" alt="Moon"></td>
+    <td><img src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" width="150px" height="150px" alt="Moon"></td>
   </tr>
   
 </table>
 <h3 align="center">Connect with me:</h3>
 <div align="center">
 
-[![image](https://img.shields.io/badge/LinkedIn-ff69b4?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/)
+
 [![image](https://img.shields.io/badge/Instagram-ff69b4?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/)
 [![image](https://img.shields.io/badge/Gmail-ff69b4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:)
   
