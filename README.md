@@ -9,19 +9,9 @@
 
 <table>
   <tr>
-    <td><img src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" width="200px" height="200px" alt="Moon"></td>
+    <td><img src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" width="200px" height="200px" alt="Moon" align="center"></td>
   </tr>
 </table>
-
-<h3 align="right">Connect with me:</h3>
-<div align="right">
-
-  <a href="https://www.instagram.com/">
-    <img src="https://img.shields.io/badge/Instagram-ff69b4?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="mailto:">
-    <img src="https://img.shields.io/badge/Gmail-ff69b4?style=for-the-badge&logo=gmail&logoCo
-
 
 <h3 align="center">Languages and Tools:</h3>
 
